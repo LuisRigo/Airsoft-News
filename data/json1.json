@@ -1,0 +1,26 @@
+﻿[
+	{
+		"id":"section4",
+		"nav_element":"Noticia 4",
+		"titulo":"Airsoft, esos Locos con sus Locos Cacharros",
+		"descripcion":"Te quiero invitar, en esta mi primera entrada del blog, a que me acompanyes por un recorrido de aventura, de emociones, de camaradera, de honor, de diversion, donde en una serie de capitulos vamos ir adentrandonos en el apasionante mundo del airsoft, donde vamos a descubrir juntos en que consiste el juego del airsoft, su historia y origenes, cuales son sus reglas, cual es el equipamiento basico, que tipo de armas existen, cuales son los mejores fabricantes de replicas, que tipos de partidas se pueden hacer, las diferentes posiciones dentro del juego, donde estan los mejores campos de airsoft en Espanya, y un sinfin de cosas mas, que te van a servir como guia de iniciacion a este apasionante mundo de las replicas. Espero que me sigas, si puedes",
+		"datetime":"04/05/2017 05:00",
+		"img":"img/steampunk1.jpg"
+	},
+	{
+		"id":"section5",
+		"nav_element":"Noticia 5",
+		"titulo":"La Bestia CXP-APE de ICS se acerca",
+		"descripcion":"As es, a partir del 30 de abril vais a tener en vuestra tienda favorita de Airsoft la nueva creacion del fabricante Taiwan es ICS, presentada a principios de anyo y mostrada en publico en el reciente 2015 IWA Show. Repleta de Novedades y con muchos elementos que harin de esta replica de Airsoft un nuevo referente dentro de la marca asiatica, estamos seguros que no defraudara a ninguno de sus futuros propietarios.",
+		"datetime":"07/05/2017 18:00",
+		"img":"img/noticia5.jpg"
+	},
+	{
+		"id":"section6",
+		"nav_element":"Noticia 6",
+		"titulo":"AA-12 de Tokyo Marui, con 3 Canyones!",
+		"descripcion":"Esta escopeta automatica de calibre 12 fue originalmente desarrollada por Maxwell Atchisson en 1972 como respuesta a una necesidad (guerra de Vietnam) de barrer espacios con densa vegetacion, donde las armas ligeras del ejercito estadounidense se habian mostrado claramente ineficientes.Mas tarde la patente de la AA-12 fue vendida a MPS (Military Police System), quien se encargo de su desarrollo y evolucion, introduciendo mas de 200 cambios en la inacabada AA-12 que dise el joven ingeniero Maxwell Atchisson para, 12 anyos mas tarde, lanzar al mercado el Automatic Assault-12.Cabe destacar de este arma su capacidad para disparar mas de 300 disparos por minuto, en parte posible por su sistema de accion por toma de gases. Se puede alimentar con un cargador extraible recto con capacidad para 8 cartuchos, o con un tambor con capacidad de 20 o 32 cartuchos del calibre 12, desde luego una autentica bestia con una potencia de fuego brutal!",
+		"datetime":"04/06/2017 13:51",
+		"img":"img/noticia6.jpg"
+	}
+]

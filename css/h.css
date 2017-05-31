@@ -1,0 +1,40 @@
+body {
+      position: relative; 
+  }
+  #section1 {padding-top:50px;height:500px;color: #fff; background-color: #1E88E5;}
+  #section2 {padding-top:50px;height:500px;color: #fff; background-color: #673ab7;}
+  #section3 {padding-top:50px;height:500px;color: #fff; background-color: #ff9800;}
+  #section4 {padding-top:50px;height:500px;color: #fff; background-color: #00bcd4;}
+  .jumbotron{
+	  margin-bottom:0px !important;
+	  padding-bottom:0px !important;
+	  padding-top:0px !important;
+  }
+  .publicidad{
+	  position:absolute;
+	  width:200px;
+	  height:300px;
+	  z-index:4;
+	  right:1%;
+	  margin:0px;
+	  padding:0px;
+	  margin-top:60px;
+  }
+#section1 p{
+	width: calc(100% - 300px);
+}
+.navbar-inverse{
+	margin-bottom:0px !important;
+}
+#titulo1{
+	width: calc(100% - 300px);
+}
+#imagen1{
+	 position:absolute;
+	  max-width:300px;
+	  max-height:200px;
+}
+#texto1{
+	position:relative;
+	top:43%;
+}

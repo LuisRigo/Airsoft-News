@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+    <title>Airsoft News</title>
+    <link>https://rawgit.com/SOSandreu1095/WebNoticias/master/index.html</link>
+    <description>La mejor pagina de noticias sobre Airsoft</description>
+
+
+    <item>
+        <title>¿El Airsoft ha Muerto?</title>
+        <link>https://rawgit.com/SOSandreu1095/WebNoticias/master/news1.html</link>
+        <description>Debido a los recientes atentados en Paris por grupos armados de Estado Islámico ha hecho que nuestros brillantes políticos europeos se pongan a pensar en posibles medidas que permitan minimizar en lo posible que tan repudiables actos</description>
+    </item>
+    
+    <item>
+        <title>Novedades Tokyo Marui Otoño 2.015</title>
+        <link>https://rawgit.com/SOSandreu1095/WebNoticias/master/news2.html</link>
+        <description>En el reciente Hobby Show celebrado en Japón del 25 al 27 de septiembre de 2.015, Tokyo Marui ha presentado sus Novedades para este final de año, y como siempre todo lo que este fabricante Japonés nos aporta al Airsoft, nos pone los dientes muuuy largos!.</description>
+		</item>
+
+</channel>
+
+</rss>

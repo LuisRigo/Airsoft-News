@@ -1,0 +1,99 @@
+﻿body{
+	background: url("../img/fondosoldier.jpg") center center fixed;
+
+}
+
+.section {margin-top:50px;padding-top:50px;color: black; background-color: #C6D09B;border-color:black;box-shadow: 10px 10px 5px #414C13;}
+
+a { color: inherit; } 
+  .jumbotron{
+	  margin-bottom:0px !important;
+	  padding-bottom:0px !important;
+	  padding-top:50px !important;
+  }
+  #imagenjumbotron{
+	  margin:0px;
+	  width:100%;
+  }
+.navbar-inverse{
+	margin-bottom:0px !important;
+}
+.center-block {
+    display: block;
+    max-width:300px;
+	max-height:150px;
+}
+h2{
+	margin:0;
+}
+
+.img-responsive{
+	margin: 0 auto;
+	}
+	#sj{
+		position:absolute;
+		background-color:#C6D09B;
+		border-color:black;
+		
+		
+	}
+	#footer{
+		background-color:#C6D09B;
+		padding-left: 75px;
+		padding-top: 20px;
+		padding-bottom:14px;
+		z-index: 1000;
+		border-color:black;
+}
+#footer{
+	width:100%;
+	background-color:#C6D09B;
+	color:black;
+	padding-top: 20px;
+	border-color:black;
+	box-shadow: 10px 10px 5px #414C13;
+	padding-bottom:14px;
+	z-index: 1000;
+}
+
+/* ============ Media Query ============ */
+
+/* Extra Small Devices */
+@media (max-width: 722px) {
+    .advert-container{
+        width: 100%;
+        position: fixed;
+        z-index: 99999;
+        bottom: 0;
+        height: 90px;
+		margin-bottom: 0px;
+		left:0%;
+    }
+	.advert-container{
+	background-image: url("../img/movistar.jpg");
+	
+}
+footer{
+	margin-bottom:100px !important;
+}
+
+    .advert-container .imagen img{
+        padding-top: 10px;
+        height: 80px;
+    }
+
+}
+/* Medium and Large Devices Desktops */
+@media (min-width: 723px) { 
+    .main-container{
+        width: calc(100% - 310px);;
+    }
+.advert-container{
+	background-image: url("../img/nyancat.gif");
+}
+    .advert-container{
+        width: 300px;
+		height:300px;
+		margin-top: 50px;
+		float:right;
+}

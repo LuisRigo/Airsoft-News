@@ -1,0 +1,26 @@
+﻿[
+	{
+		"id":"section7",
+		"nav_element":"Noticia 7",
+		"titulo":"Empezamos en AirsoftOnline.net!",
+		"descripcion":"Por fin ha llegado el dia de inaugurar nuestra tienda online dedicada exclusivamente al deporte del Airsoft, esperamos que os guste y que encontreis cualquier cosa que busqueis sin que os represente un dolor de cabeza, hemos trabajado mucho en categorizar todos los productos para que navegar por la tienda os resulte agradable.",
+		"datetime":"02/04/2017 13:00",
+		"img":"img/noticia7.jpg"
+	},
+	{
+		"id":"section8",
+		"nav_element":"Noticia 8",
+		"titulo":"AirsoftOnline.net, tu tienda de airsoft!",
+		"descripcion":"En la tienda de airsoft online podras encontrar marcadoras de los mejores fabricantes como Tokio Marui, G&G, ICS, Jing Gong, King Arms, Classic Army, Bolt, Cybergun y GSG, pistolas, lanzagranadas, recambios para marcadoras, municion para airsoft, elementos de potencia para tus réplicas como gas, CO2 y baterías, todo tipo de elementos para mejorar tu marcadora, tanto las partes externas como las internas, todos lo necesario para el mantenimiento de las marcadoras de airsoft, pinturas, elementos de comunicación, elementos de visión como lasers, visores, linternas, red dots, ropa de la mejor calidad para equiparte de la cabeza a los pies, y todo lo necesario para tu equipamiento táctico, como ves no vas a echar en falta nada!",
+		"datetime":"08/03/2017 12:00",
+		"img":"img/noticia8.jpg"
+	},
+	{
+		"id":"section9",
+		"nav_element":"Noticia 9",
+		"titulo":"Airsoft BBs, que es esto?",
+		"descripcion":"Airsoft BBs, nunca te has preguntado que significa?. Cuando empiezas a jugar a airsoft y empiezas a adentrarte en este apasionante mundo, te das cuenta enseguida que esta rodeado de una jerga muy especializada y que requiere de cierto tiempo hasta que consigues colocarte a la altura de los pros y entender toda esta cultura airsoftera.",
+		"datetime":"04/02/2016 13:30",
+		"img":"img/noticia9.jpg"
+	}
+]
