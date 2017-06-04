@@ -7,7 +7,7 @@
 
 v1.0 Inicialmente la barra de navegación iba a estar debajo del jumbotron y a medida que se vaya haciendo scroll la barra se quedaria en el top.La noticia estaria estructurada como en la foto, teniend así la imagen de la noticia en la parte izquierda y el texto a su derecha.Todas las partes de la noticia irian dentro de un container.Y a su vez todas las noticias iran dentro de un main container. La publidad ocupará 300 px de ancho en la parte derecha de la pantalla a la altura de la noticia 1 .
 
-### Primera Idea Vertical###
+### Primera Idea Vertical ###
 
 ![Imagen de idea_inicial](log/vertical.PNG)
 
@@ -19,7 +19,7 @@ v1.0 Verticalmente ocurriria lo mismo que horizontalmente con la unica variante 
 
 v2.0 Tras intentar implementar la version 1.0 me di cuenta que estéticamente no me gustaba e hice un par de cambios.La nav bar finalmente se encontrará en la parte superior de la pantalla, encima del jumbotron, en vez de debajo de este. La estructura del container de una noticia finalmente estara estructurada como en la foto, título, descripción e imagen(centrada).
 
-### Idea Final Vertical###
+### Idea Final Vertical ###
 
 ![Imagen de idea_inicial](log/vertical2.PNG)
 
