@@ -36,4 +36,4 @@ Se habilita un elemento button para cargar más noticias. Realizará 2 cargas. E
 Si se llega hasta el final de la pantalla, se hará auto scroll de las 3 siguientes noticias.
 
 ### Inicialización ###
-Por defecto se cargan 3 noticias. Las 2 primeras enlazan a news1.xtml y news2.html.
+Por defecto se cargan 3 noticias. Las 2 primeras enlazan a news1.html y news2.html.
